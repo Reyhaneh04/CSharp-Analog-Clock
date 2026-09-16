@@ -66,10 +66,7 @@ AnalogClock/
 ├── packages.config
 └── .gitignore
 Project
-
-GitHub Repository:
-
-https://github.com/Reyhaneh04/CSharp-Analog-Clock
+```
 
 ## Screenshots
 
