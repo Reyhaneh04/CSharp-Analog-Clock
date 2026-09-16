@@ -73,4 +73,4 @@ https://github.com/Reyhaneh04/CSharp-Analog-Clock
 
 ## Screenshots
 
-![Analog Clock](clock.png)
+![Analog Clock](screenshots/clock.png)
